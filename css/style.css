@@ -188,7 +188,7 @@ ul li{
     border-radius: 25px;
     z-index: 1;
 }
-.temp-after:after
+.temp-after::after
 {
     content: "";
     left: 0;
